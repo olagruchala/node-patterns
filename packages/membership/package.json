@@ -1,5 +1,5 @@
 {
-  "name": "store-membership",
+  "name": "@ola/membership",
   "version": "0.0.1",
   "description": "Learning node patterns",
   "main": "index.ts",
